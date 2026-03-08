@@ -1,6 +1,6 @@
 # Basic Chatbot
 
-def chatbot():
+def chatbot(): 
     print("🤖 Chatbot: Hello! Type 'bye' to exit.")
 
     while True:
